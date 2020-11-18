@@ -51,7 +51,7 @@ export default {
       title: 'Turning the Amazon river into an industrial waterway',
       legend: [
         {
-          title: 'Industrial port facilities in the Amazon basin',
+          title: 'Industrial port facilities in the Amazon',
           color: '#7259A8',
           border: 'black',
           type: 'circle'
@@ -62,7 +62,7 @@ export default {
           type: 'circle'
         }
       ],
-      sources: 'ANTAQ (Ports), Trase.earth (storage facilities)',
+      sources: 'ANTAQ, state governments (Ports), Trase.earth (storage facilities)',
       images: [
         {
           src: 'port1.jpg',
@@ -305,7 +305,7 @@ export default {
           src: 'maica.png',
           position: 'top',
           title: 'Maicá Lake',
-          author: 'Carol Ferraz'
+          author: 'Carol Ferraz/Amigos da Terra'
         }
       ],
       onChapterEnter: [],
