@@ -112,7 +112,7 @@ export default {
       sources:
         'UMD/Google/USGS/NASA (Tree cover loss), Global Forest Watch. "Land rights"',
       description:
-        'The northward expansion of Amazon roadbuilding over recent decades opened truck/barge transit corridors to the Amazon River and Atlantic Ocean that run adjacent to Indigenous territories and cause deforestation. However, these northern routes, do let agribusiness bypass a long, rugged road journey, and the queues of trucks clogging Brazil’s southern ports at Paranaguá and Santos.',
+        'The northward expansion of Amazon roadbuilding over recent decades opened truck and barge transit corridors to the Amazon River and Atlantic Ocean that run adjacent to Indigenous territories and cause deforestation. However these northern routes, do let agribusiness bypass a long, rugged road journey, and the queues of trucks clogging Brazil’s southern ports at Paranaguá and Santos.',
       location: {
         center: [-57.15869, -3.85456],
         zoom: 4.7,
@@ -246,7 +246,7 @@ export default {
       title: 'Porto Velho',
       image: '',
       description:
-        'Soy-loaded trucks travel from Mato Grosso state 1,000 kilometers (600 miles) along the BR-364 highway to the city of Porto Velho public port in Rondônia state. There, Hermasa, a subsidiary of agribusiness Amaggi, built silos in a leased portion of the public port, and moved soy from trucks to Madeira River barges. More recently, Hermasa built its own private port in the city. From Porto Velho, barges sail 1,000 kilometers downstream to a private Amaggi port at the city of Itacoatiara. From there, big ships travel downriver to the Atlantic coast and on to overseas markets.',
+        'Soy-loaded trucks travel from Mato Grosso state 1,000 kilometers (600 miles) along the BR-364 highway to the city of Porto Velho public port in Rondônia state. There, Hermasa, a subsidiary of agribusiness giant Amaggi, built silos in a leased portion of the public port, and moved soy from trucks to Madeira River barges. More recently, Hermasa built its own private port in the city. From Porto Velho, barges sail 1,000 kilometers downstream to a private Amaggi port at the city of Itacoatiara. From there, big ships travel downriver to the Atlantic coast and on to overseas markets.',
       location: {
         center: [-63.87170, -8.79644],
         zoom: 8.52,
@@ -316,7 +316,7 @@ export default {
       title: 'Barcarena',
       image: '',
       description:
-        'Pará state’s Barcarena complex began with the public Vila do Conde port, established in 1985. It was built to respond to demand from the region’s mining companies, including Vale, Brazil’s largest mining firm. In the 2000’s, Barcarena’s river port complex began to receive increased demand from agribusiness, as it sought a route through the Amazon.',
+        'Pará state’s Barcarena complex began with the public Vila do Conde port, established in 1985. It was built to respond to demand from the region’s mining companies, including Vale, Brazil’s largest mining firm. In the 2000’s, Barcarena’s river port complex began to receive increased demand from agribusiness as it sought a route through the Amazon.',
       location: {
         center: [-48.67775, -1.52281],
         zoom: 11.17,
